@@ -1,0 +1,1 @@
+based on STM32L152VBT6 MCU
